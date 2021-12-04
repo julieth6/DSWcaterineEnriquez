@@ -1,11 +1,11 @@
 header{
-    background-color:#F5E8C7;
+    background-color:#907FA4;
 }
 nav{
-    background-color:#DEBA9D;
+    background-color:#A58FAA;
 }
 section{
-    background-color:#9E7777;
+    background-color:#A6D6D6;
     grid-column: 1/4;
 }
 aside{
@@ -13,7 +13,7 @@ aside{
     grid-column: 4/5;
 }
 footer{
-    background-color:#6F4C5B;
+    background-color:#90AACB;
 }
 main{
     display: grid;
